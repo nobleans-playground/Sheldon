@@ -157,6 +157,7 @@ PROTO Sheldon [
       density -1
       mass IS bodyMass
     }
-    controller "my_controller"
+    controller "<extern>"
   }
 }
+
