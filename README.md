@@ -5,8 +5,8 @@ Mathijs' robot
 
 23-03-2021: First push from checked out folder
 
-Followed the following tutorials/installations: 
-- Upgrade ubuntu 18.04 to 20.04:  https://ubuntu.com/blog/how-to-upgrade-from-ubuntu-18-04-lts-to-20-04-lts-today
-- Webots installation: https://cyberbotics.com/doc/guide/installation-procedure#installation-on-linux
-- ROS2 installation: https://docs.ros.org/en/foxy/Installation/Linux-Install-Debians.html (installed Desktop Install, not Bare Bones)
-- Ros2 tutorials (especially CLi Tools & Client libraries): https://docs.ros.org/en/foxy/Tutorials.html
+05-05-2021: Completed Ros2 tutorials
+
+06-05-2021: Completed Webots Turorials
+
+07-05-2021: Turtlebot3 (Webots and ROS2) & Selfmade box with wheels (simple bot) in Webots with Ros2 and WASD control start
